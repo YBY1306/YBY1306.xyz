@@ -4,6 +4,10 @@
 
 [文章：uefi-embed-dxe](https://blog.yby1306.xyz/posts/uefi-embed-dxe)
 
+[RSS](https://blog.yby1306.xyz/rss.xml)
+
+[SITEMAP](https://blog.yby1306.xyz/sitemap-index.xml)
+
 ---
 
 珍爱生命，远离毒品。坚决零容忍，拒绝封存！
