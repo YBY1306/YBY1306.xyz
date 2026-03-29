@@ -2,6 +2,8 @@
 
 [基于Fuwari的博客](https://fuwari.blog.yby1306.xyz/)
 
+[文章：uefi-embed-dxe](https://blog.yby1306.xyz/posts/uefi-embed-dxe)
+
 ---
 
 珍爱生命，远离毒品。坚决零容忍，拒绝封存！
