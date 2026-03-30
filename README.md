@@ -8,6 +8,8 @@
 
 [SITEMAP](https://blog.yby1306.xyz/sitemap-index.xml)
 
+[关于](https://blog.yby1306.xyz/about/)
+
 ---
 
 珍爱生命，远离毒品。坚决零容忍，拒绝封存！
