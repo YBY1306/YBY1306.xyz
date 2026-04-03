@@ -12,6 +12,5 @@
 
 ---
 
-珍爱生命，远离毒品。坚决零容忍，拒绝封存！
-
-英特纳雄耐尔就一定会实现！
+[1](https://blog.yby1306.xyz/posts/uefi-embed-dxe)
+[2](https://fuwari.blog.yby1306.xyz/)
