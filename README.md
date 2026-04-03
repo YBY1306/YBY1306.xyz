@@ -1,8 +1,8 @@
 # YBY1306.xyz
 
-[基于Fuwari的博客](https://blog.yby1306.xyz)
+[博客](https://blog.yby1306.xyz)
 
-[文章：uefi-embed-dxe](https://blog.yby1306.xyz/posts/uefi-edit-add-dxe)
+[文章：折腾日记：把Btrfs作为ESP分区 ](https://blog.yby1306.xyz/posts/uefi-edit-add-dxe)
 
 [RSS](https://blog.yby1306.xyz/rss.xml)
 
